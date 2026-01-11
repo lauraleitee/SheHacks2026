@@ -1,0 +1,12 @@
+To get project to work:
+
+cd futuristic-to-do-list
+
+## Run packages
+npm install
+
+## Run project
+npm run dev
+
+## Project will run on http://localhost:3000
+
