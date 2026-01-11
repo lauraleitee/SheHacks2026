@@ -78,3 +78,5 @@ export default function AboutPage() {
     </main>
   )
 }
+
+// about me
